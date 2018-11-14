@@ -29,3 +29,4 @@ From the 10,000 original participants, 300 will be selected for the full Nanodeg
 ### PyTorch
 1. Neural Network Programming - Deep Learning https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
 2. Deep Learning with Python and PyTorch https://www.edx.org/course/deep-learning-with-python-and-pytorch
+3. Neural Transfer Using PyTorch https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
