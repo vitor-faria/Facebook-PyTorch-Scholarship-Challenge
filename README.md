@@ -6,6 +6,9 @@ PyTorch is an open source end-to-end deep learning platform developed by Faceboo
 
 From the 10,000 original participants, 300 will be selected for the full Nanodegree program scholarship for the Deep Learning Nanodegree Program. 
 
+### Orientation Video
+https://www.youtube.com/watch?v=bHpZfvVQI3g
+
 # Resources for this Scholarship Challenge
 
 ### Mathematics for Deep Learning:
