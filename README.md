@@ -36,3 +36,6 @@ https://www.youtube.com/watch?v=bHpZfvVQI3g
 2. Deep Learning with Python and PyTorch https://www.edx.org/course/deep-learning-with-python-and-pytorch
 3. Neural Transfer Using PyTorch https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 4. PyTorch Tensor Tutorial https://github.com/TheDataSpartan/PyTorch/blob/master/PyTorch%20Tensor%20Notebook.ipynb
+
+# Level-Up Your Game
+This section will be a log of all the messages I post on the Slack community regarding breaking into Data Science as well as Growing in this field.
