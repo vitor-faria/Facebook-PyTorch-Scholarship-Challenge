@@ -4,7 +4,19 @@
 
 PyTorch is an open source end-to-end deep learning platform developed by Facebook which enables fast, flexible, and efficient production which is built as a python-first framework.
 
-From the 10,000 original participants, 300 will be selected for the full Nanodegree program scholarship for the Deep Learning Nanodegree Program. 
+This repository contains the content that is related to the First Phase of the PyTorch Scholarship Challenge Program from Facebook and Udacity. 
+
+For the first phase of this Challenge had 10,000 people from around the world. 
+
+On the basis of the following criterion, the selection of the second phase took place:
+1. The Completion of the Lessons and Quizzes.
+2. Contribution in the Slack Community.
+3. The accuracy of the Final Project. The final project was comprised of Transfer Learning to classify 102 Flower Species using PyTorch.
+
+## After completing the above criteria, it's an honour to be selected among those top 300 students and receive Scholarship for the Deep Learning Nanodegree.
+
+### Challenge Website
+https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 
 ### Orientation Video
 https://www.youtube.com/watch?v=bHpZfvVQI3g
@@ -36,6 +48,3 @@ https://www.youtube.com/watch?v=bHpZfvVQI3g
 2. Deep Learning with Python and PyTorch https://www.edx.org/course/deep-learning-with-python-and-pytorch
 3. Neural Transfer Using PyTorch https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 4. PyTorch Tensor Tutorial https://github.com/TheDataSpartan/PyTorch/blob/master/PyTorch%20Tensor%20Notebook.ipynb
-
-# Level-Up Your Game
-This section will be a log of all the messages I post on the Slack community regarding breaking into Data Science as well as Growing in this field.
