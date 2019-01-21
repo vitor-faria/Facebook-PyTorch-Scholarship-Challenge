@@ -9,13 +9,15 @@ This repository contains the content that is related to the First Phase of the P
 For the first phase of this Challenge had 10,000 people from around the world. 
 
 On the basis of the following criterion, the selection of the second phase took place:
-1. The Completion of the Lessons and Quizzes.
-2. Contribution in the Slack Community.
-3. The accuracy of the Final Project. The final project was comprised of Transfer Learning to classify 102 Flower Species using PyTorch.
+1. Successful completion of the Challenge Course
+2. Level of participation and support of classmates in the student community
+3. Re-assessment of essays from the original scholarship application
+4. All the selection criteria used in Phase 1
 
 ## After completing the above criteria, it's an honour to be selected among those top 300 students and receive Scholarship for the Deep Learning Nanodegree.
 
-### Challenge Website
+### Challenge Websites
+https://www.udacity.com/facebook-pytorch-scholarship
 https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 
 ### Orientation Video
