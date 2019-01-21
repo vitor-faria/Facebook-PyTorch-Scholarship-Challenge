@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/taimurzahid/PyTorch-Scholarship-Challenge/blob/master/pytorchudacityscholar.png)
 
-PyTorch is an open source end-to-end deep learning platform developed by Facebook which enables fast, flexible, and efficient production which is built as a python-first framework.
+PyTorch is an open source end-to-end deep learning platform developed by Facebook Artificial Intelligence which enables fast, flexible, and efficient production which is built as a python-first framework.
 
 This repository contains the content that is related to the First Phase of the PyTorch Scholarship Challenge Program from Facebook and Udacity. 
 
@@ -17,8 +17,8 @@ On the basis of the following criterion, the selection of the second phase took 
 ## After completing the above criteria, it's an honour to be selected among those top 300 students and receive Scholarship for the Deep Learning Nanodegree.
 
 ### Challenge Websites
-https://www.udacity.com/facebook-pytorch-scholarship
-https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
+1. https://www.udacity.com/facebook-pytorch-scholarship
+2. https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 
 ### Orientation Video
 https://www.youtube.com/watch?v=bHpZfvVQI3g
